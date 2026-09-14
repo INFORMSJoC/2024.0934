@@ -34,8 +34,7 @@ BibTeX for this repository snapshot:
   title =         {{Urban Delivery with a Coordinated Fleet of Trucks and Drones}},
   year =          {2026},
   doi =           {10.1287/ijoc.2024.0934.cd},
-  url =           {https://github.com/10.1287/ijoc.2024.0934},
-  note =          {Available for download at https://github.com/10.1287/ijoc.2024.0934},
+  note =          {Available for download at https://github.com/INFORMSJoC/2024.0934},
 }
 ```
 
